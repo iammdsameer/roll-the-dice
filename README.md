@@ -1,2 +1,2 @@
 # Roll the Dice
--Built in Vanilla JS
+- Built in Vanilla JS
